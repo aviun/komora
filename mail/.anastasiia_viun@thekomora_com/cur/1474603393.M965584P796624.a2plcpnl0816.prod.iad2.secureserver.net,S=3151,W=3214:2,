@@ -1,0 +1,63 @@
+Return-Path: <anastasiia.viun@gmail.com>
+Delivered-To: anastasiia.viun@thekomora.com
+Received: from a2plcpnl0816.prod.iad2.secureserver.net
+	by a2plcpnl0816.prod.iad2.secureserver.net (Dovecot) with LMTP id mIuZNoGp5FfQJwwAJGzA2g
+	for <anastasiia.viun@thekomora.com>; Thu, 22 Sep 2016 21:03:13 -0700
+Return-path: <anastasiia.viun@gmail.com>
+Envelope-to: anastasiia.viun@thekomora.com
+Delivery-date: Thu, 22 Sep 2016 21:03:13 -0700
+Received: from mail-pf0-f171.google.com ([209.85.192.171]:34545)
+	by a2plcpnl0816.prod.iad2.secureserver.net with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.87)
+	(envelope-from <anastasiia.viun@gmail.com>)
+	id 1bnHhh-003L7H-QK
+	for anastasiia.viun@thekomora.com; Thu, 22 Sep 2016 21:03:13 -0700
+Received: by mail-pf0-f171.google.com with SMTP id p64so37494966pfb.1
+        for <anastasiia.viun@thekomora.com>; Thu, 22 Sep 2016 21:02:53 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=from:content-transfer-encoding:subject:message-id:date:to
+         :mime-version;
+        bh=d8wA1H5fPmRTwu/zZXjvTrg1N5SA78839Ue5RawKlcs=;
+        b=HwNkT8KxgmeH8mhuGzhbE9m5oNlXk2cRgUlQ6JDtFW7bKCg6pRTsI6i4zKTwsMf9Wo
+         nAhwVn2n1ujtay9CpWDFYy2Yh0nd7rj8hF7SGRAEch8qjjCo3LCXgUnsWj0IQLWCJRj6
+         XUimRoytl/2N+Il48PiSbrcg3Lhr/DZoEr+v+ftyps6HAJoycbfcZxoOaCmcof/yKtgW
+         s6ZsvMfPUwmSzzTXges2vti4BDWwu+Wf82oPMn0GWGcgsoSMHHknbLqzunqmxCRB+wkn
+         qn9USBeauA1CihOCq8NxYnjHwtCODZoDO1cqXD9/E4GcW4HtTwfA2U/F5Tsj/Et0vmTZ
+         Clnw==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:from:content-transfer-encoding:subject
+         :message-id:date:to:mime-version;
+        bh=d8wA1H5fPmRTwu/zZXjvTrg1N5SA78839Ue5RawKlcs=;
+        b=HJo9afawe9anUk9nw5ThtvocpKBCqtKmo6Bpm9kGd68ATRYByw1cWs7Unz3zD4WjU3
+         CWoWVbn5l/ND7UDm3Ny1KarTepNMwOLeMAw0fjSfL0cHWmdnxyquaI99NF5tbpXTQuoH
+         Uu3etec/P2oxkHZ8vZjCqwB70xig7HT22C/kglbodulMKcyY8nvHkm3XhtQVWXSQIZGB
+         zQO11zf0gP+bKnUwgZIfk7BTXRgwXzaMng1F5gwPFGpRvNbfgUoViEv9zxTC9Zpn2Syo
+         X0v0jsITFrIE6KE4byct1S1iinYqjfrLnTDqDK/W7NqU8PJ3RS1i5FKd8It3y0whNBVz
+         tZJw==
+X-Gm-Message-State: AE9vXwM9I65PulnlzXSesC7eAP+kvWopSMa3OsFE00P6/OwgITvSb9/fn4kbXBVqqket0Q==
+X-Received: by 10.98.205.66 with SMTP id o63mr8907860pfg.37.1474603352470;
+        Thu, 22 Sep 2016 21:02:32 -0700 (PDT)
+Received: from [192.168.0.17] (S0106f0f249e2b403.vc.shawcable.net. [174.6.17.147])
+        by smtp.gmail.com with ESMTPSA id 69sm7191903pfu.83.2016.09.22.21.02.31
+        for <anastasiia.viun@thekomora.com>
+        (version=TLS1 cipher=ECDHE-RSA-AES128-SHA bits=128/128);
+        Thu, 22 Sep 2016 21:02:31 -0700 (PDT)
+From: Anastasiia Viun <anastasiia.viun@gmail.com>
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Subject: test
+Message-Id: <9B35680F-3F94-4C86-B50C-A848EF7F0DEB@gmail.com>
+Date: Thu, 22 Sep 2016 21:02:30 -0700
+To: anastasiia.viun@thekomora.com
+Mime-Version: 1.0 (Mac OS X Mail 8.2 \(2104\))
+X-Mailer: Apple Mail (2.2104)
+
+
+With best regards,
+
+Anastasiia Viun
+anastasiia.viun@gmail.com
+
+
